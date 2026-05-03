@@ -25,7 +25,7 @@
 
 ## 💻풀스택 개발자 교육과정의 모든 것
 ### My portfolio feat.Notion
-아래 노션은 2025년 11월 28일부터 현재까지 제가 풀스택 개발자 교육과정을 들으며 정리한 포트폴리오 및 프로젝트가 담겨있습니다.
+아래 노션은 2025년 11월 28일부터 현재까지 제가 풀스택 개발자 교육과정을 들으며 정리한 포트폴리오 및 프로젝트가 담겨있습니다.<br>
 진행 사항과 저의 작업들을 자유롭게 확인하실 수 있습니다.<br>
 <br>
 ✅[Visit Younggeun's Notion Portfolio](https://www.notion.so/You-Young-Geun-s-Portfolio-34472e3c659e80288679fe6475294710?source=copy_link)
@@ -50,4 +50,5 @@
 <img src="https://render.gitanimals.org/farms/qwazsx1346-cyber?0"/>
 
 <br>
-###Thank you for your time and consideration.
+
+<div>Thank you for your time and consideration!😄<div/>
